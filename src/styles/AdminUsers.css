@@ -1,0 +1,21 @@
+.admin-users-container {
+  padding: 20px;
+}
+
+.admin-users-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.admin-users-container li {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.admin-users-container button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
