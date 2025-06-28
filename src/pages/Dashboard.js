@@ -40,6 +40,7 @@ const Dashboard = () => {
       </div>
 
       <h3>Your Investments:</h3>
+
       <ul>
         {investments.map((inv) => (
           <li key={inv._id}>
